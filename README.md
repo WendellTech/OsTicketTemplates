@@ -1,0 +1,2 @@
+# OsTicketTemplates
+Template canned responses
