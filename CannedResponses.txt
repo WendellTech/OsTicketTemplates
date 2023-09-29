@@ -20,3 +20,9 @@ Agent Name
 Hi %{ticket.name.first}, 
 
 Your ticket #%{ticket.number} created on %{ticket.create_date} is in %{ticket.dept.name} department.
+
+
+-What is osTicket (sample)?
+osTicket is a widely-used open source support ticket system, an attractive alternative to higher-cost and complex customer support systems - simple, lightweight, reliable, open source, web-based and easy to setup and use.
+
+--Add osTicket.txt attachment to above canned response!
