@@ -1,0 +1,22 @@
+
+-Done
+Done.
+
+Fixed.
+
+Resolved.
+
+
+-Not Enough Info
+Sorry %{ticket.name},
+
+There is not enough info for us to resolve this ticket, we will go ahead and close it for now.
+
+Sincerely,
+
+Agent Name
+
+-Sample (with variables)
+Hi %{ticket.name.first}, 
+
+Your ticket #%{ticket.number} created on %{ticket.create_date} is in %{ticket.dept.name} department.
