@@ -1,0 +1,10 @@
+Quick Questions
+
+-What is MatDesk?
+MatDesk is an advanced ticketing system built off of osTicket, hosted via a free php host with mySQL (Infinityfree.com). MatDesk is a powerful piece of web software complete with multiple languages and plugins support.
+
+Copyright © 2006-2023 MatDesk All Rights Reserved.
+Copyright © 2006-2023 WendellTech International. All Rights Reserved.
+
+-What is osTicket?
+osTicket is a highly advanced ticketing system for customer support and so on. It has an advanced user system, admin panel, agent panel, and emailing system. It can be self hosted on any php server with MySQL as the data holding database. It also has a knowledge base for things like FAQ (Like this). It comes with a variety of language packs as well, and plugins!
